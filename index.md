@@ -2,8 +2,12 @@
 https://github.com/yoiyoy
 
 
-### Devlog
-https://yoiyoy.wordpress.com
+### GitBook
+https://yoiyoy.gitbooks.io/
+
+
+### Codewars
+https://www.codewars.com/users/yoiyoy
 
 
 ### Contact
